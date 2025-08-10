@@ -1,6 +1,6 @@
 id=xiaomi-speed-mode
 name=[Xiaomi] speed mode
-description=ativa a funçao speed mode oculta em dispositivos xiaomi
+description=activate speed mode on Xiaomi devices
 author=Alisuuu
 version=v1.0.0
 versionCode=1
