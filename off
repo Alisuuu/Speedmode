@@ -1,6 +1,5 @@
 secure speed_mode_enable 0
 system speed_mode 0
-secure user_refresh_rate 1
 secure long_press_timeout 300
 global enable_msaa 0
 global performance_mode 0
