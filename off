@@ -1,2 +1,15 @@
-Secure speed_mode_enable 0
-System speed_mode 0
+secure speed_mode_enable 0
+system speed_mode 0
+secure user_refresh_rate 1
+secure long_press_timeout 300
+global enable_msaa 0
+global performance_mode 0
+secure touch_response 0
+secure touch_sensitivity 0
+secure game_turbo_touch_optimization 0
+secure game_turbo_boost_network 0
+secure game_turbo_fps_stabilizer 0
+System cloud_turbo_sched_enable_speed_touch false
+Secure gb_boosting 0
+System screen_game_mode 0
+global private_dns_mode on
