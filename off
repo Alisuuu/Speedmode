@@ -11,4 +11,4 @@ secure game_turbo_fps_stabilizer 0
 System cloud_turbo_sched_enable_speed_touch false
 Secure gb_boosting 0
 System screen_game_mode 0
-global private_dns_mode on
+global private_dns_mode off
