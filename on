@@ -12,5 +12,3 @@ System perf_proc_game_List com.activision.callofduty.shooter,com.tencent.tmgp.co
 System cloud_turbo_sched_enable_speed_touch true
 Secure gb_boosting 1
 System screen_game_mode 1
-global private_dns_mode on
-global private_dns_specifier 1.1.1.1
