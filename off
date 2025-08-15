@@ -3,8 +3,8 @@ system speed_mode 0
 secure long_press_timeout 300
 global enable_msaa 0
 global performance_mode 0
-secure touch_response 0
-secure touch_sensitivity 0
+secure touch_response 1
+secure touch_sensitivity 1
 secure game_turbo_touch_optimization 0
 secure game_turbo_boost_network 0
 secure game_turbo_fps_stabilizer 0
